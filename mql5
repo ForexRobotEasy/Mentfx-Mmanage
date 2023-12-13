@@ -1,0 +1,212 @@
+mql5
+//+------------------------------------------------------------------+
+//|                                            Mentfx Mmanage.mq5    |
+//|                       Copyright 2022, Forex Robot Easy Team      |
+//|                                          Developer's Site: forexroboteasy.com |
+//|                                                                  |
+//|                      Terms of Reference for Writing Code for Mentfx Mmanage |
+//+------------------------------------------------------------------+
+#property strict
+
+//+------------------------------------------------------------------+
+//| Expert initialization function                                   |
+//+------------------------------------------------------------------+
+int OnInit()
+{
+    // Add initialization code here
+    return(INIT_SUCCEEDED);
+}
+
+//+------------------------------------------------------------------+
+//| Expert deinitialization function                                 |
+//+------------------------------------------------------------------+
+void OnDeinit(const int reason)
+{
+    // Add deinitialization code here
+}
+
+//+------------------------------------------------------------------+
+//| Expert start function                                            |
+//+------------------------------------------------------------------+
+void OnTick()
+{
+    // Add code to manage trades here
+}
+
+//+------------------------------------------------------------------+
+//| Calculate stop-loss levels and profit targets based on entry points|
+//+------------------------------------------------------------------+
+void CalculateLevels()
+{
+    // Add code to calculate stop-loss levels and profit targets here
+}
+
+//+------------------------------------------------------------------+
+//| Execute market orders or limit orders based on targeting and closing portions |
+//+------------------------------------------------------------------+
+void ExecuteOrders()
+{
+    // Add code to execute market or limit orders here
+}
+
+//+------------------------------------------------------------------+
+//| Main function for managing trades using the drag and drop tool   |
+//+------------------------------------------------------------------+
+void ManageTrades()
+{
+    // Add code to manage trades using the drag and drop tool here
+}
+
+//+------------------------------------------------------------------+
+//| Main function for maximizing profits and effectively managing trades |
+//+------------------------------------------------------------------+
+void MaximizeProfits()
+{
+    // Add code to maximize profits and effectively manage trades here
+}
+
+//+------------------------------------------------------------------+
+//| Main function for the advanced targeting and close portions      |
+//+------------------------------------------------------------------+
+void AdvancedTargeting()
+{
+    // Add code for advanced targeting and close portions here
+}
+
+//+------------------------------------------------------------------+
+//| Main function for executing market or limit orders with factored spread |
+//+------------------------------------------------------------------+
+void ExecuteMarketOrders()
+{
+    // Add code to execute market or limit orders with factored spread here
+}
+
+//+------------------------------------------------------------------+
+//| Main function for managing trades when not actively using the software |
+//+------------------------------------------------------------------+
+void ManageTradesInactive()
+{
+    // Add code to manage trades when not actively using the software here
+}
+
+//+------------------------------------------------------------------+
+//| Main function for ensuring software never misses trading opportunities |
+//+------------------------------------------------------------------+
+void NeverMissTradingOpportunities()
+{
+    // Add code to ensure software never misses trading opportunities here
+}
+
+//+------------------------------------------------------------------+
+//| Main function for creating an advanced forex software for professional traders |
+//+------------------------------------------------------------------+
+void CreateAdvancedForexSoftware()
+{
+    // Add code to create advanced forex software for professional traders here
+}
+
+//+------------------------------------------------------------------+
+//| Main function for developing a user-friendly interface           |
+//+------------------------------------------------------------------+
+void DevelopUserFriendlyInterface()
+{
+    // Add code to develop user-friendly interface here
+}
+
+//+------------------------------------------------------------------+
+//| Main function for integrating with existing trading platforms    |
+//+------------------------------------------------------------------+
+void IntegrateWithExistingPlatforms()
+{
+    // Add code to integrate with existing trading platforms here
+}
+
+//+------------------------------------------------------------------+
+//| Main function for clean, organized, and well-documented code      |
+//+------------------------------------------------------------------+
+void CleanOrganizedCode()
+{
+    // Add code for clean, organized, and well-documented code here
+}
+
+//+------------------------------------------------------------------+
+//| Logical conclusion of the program                                |
+//+------------------------------------------------------------------+
+void ProgramConclusion()
+{
+    // Add code for the logical conclusion of the program here
+}
+
+//+------------------------------------------------------------------+
+//| Custom function to set up the trading robot                       |
+//+------------------------------------------------------------------+
+void SetupTradingRobot()
+{
+    // Add code to set up the trading robot here
+}
+
+//+------------------------------------------------------------------+
+//| Custom function to start the trading robot                        |
+//+------------------------------------------------------------------+
+void StartTradingRobot()
+{
+    // Add code to start the trading robot here
+}
+
+//+------------------------------------------------------------------+
+//| Custom function to stop the trading robot                         |
+//+------------------------------------------------------------------+
+void StopTradingRobot()
+{
+    // Add code to stop the trading robot here
+}
+
+//+------------------------------------------------------------------+
+//| Custom function to update the trading robot                       |
+//+------------------------------------------------------------------+
+void UpdateTradingRobot()
+{
+    // Add code to update the trading robot here
+}
+
+//+------------------------------------------------------------------+
+//| Custom function to pause the trading robot                        |
+//+------------------------------------------------------------------+
+void PauseTradingRobot()
+{
+    // Add code to pause the trading robot here
+}
+
+//+------------------------------------------------------------------+
+//| Custom function to resume the trading robot                       |
+//+------------------------------------------------------------------+
+void ResumeTradingRobot()
+{
+    // Add code to resume the trading robot here
+}
+
+//+------------------------------------------------------------------+
+//| Custom function to exit the trading robot                         |
+//+------------------------------------------------------------------+
+void ExitTradingRobot()
+{
+    // Add code to exit the trading robot here
+}
+
+//+------------------------------------------------------------------+
+//| Custom function to get the version of the trading robot           |
+//+------------------------------------------------------------------+
+string GetVersion()
+{
+    // Add code to return the version of the trading robot here
+    return '1.0';
+}
+
+//+------------------------------------------------------------------+
+//| Custom function to get the developer's site                       |
+//+------------------------------------------------------------------+
+string GetDeveloperSite()
+{
+    // Add code to return the developer's site here
+    return 'forexroboteasy.com';
+}
